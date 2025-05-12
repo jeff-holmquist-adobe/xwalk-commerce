@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p82652-e710588.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/xwalk-commerce/main"
+    url: "https://author-p82652-e710588.adobeaemcloud.com/bin/franklin.delivery/jeff-holmquist-adobe/xwalk-commerce/main"
     type: "markup"
     suffix: ".html"
 folders:
